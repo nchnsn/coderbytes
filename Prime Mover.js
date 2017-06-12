@@ -24,3 +24,5 @@ function isPrime(num){
    }
    return true;
 }
+
+console.assert(PrimeMover(16) === 53, 'Returns the numrth Prime Number';
