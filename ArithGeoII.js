@@ -41,3 +41,5 @@ function ArithGeoII(arr) {
     }
   
 }
+
+console.assert(ArithGeoII([2, 4, 6, 8]) === "Arithmetic", "Sequence follows arithmetic pattern");
